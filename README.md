@@ -4,8 +4,6 @@
 # embedmd
 
 
-Then `embedmd` is for you!
-
 `embedmd` embeds files or fractions of files into Markdown files. It does
 so by searching `embedmd` commands, which are a subset of the Markdown
 syntax for comments. This means they are invisible when Markdown is
