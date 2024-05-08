@@ -3,9 +3,6 @@
 
 # embedmd
 
-Are you tired of copy pasting your code into your `README.md` file, just to
-forget about it later on and have unsynced copies? Or even worse, code
-that does not even compile?
 
 Then `embedmd` is for you!
 
